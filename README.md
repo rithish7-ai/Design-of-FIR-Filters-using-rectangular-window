@@ -44,11 +44,10 @@ ylabel( 'Magnitude in dB');
 title('Frequency Response of FIR LPF using Rectangular Window');
 ```
 
-
 # OUTPUT:
 
-
 ![WhatsApp Image 2025-11-21 at 18 55 50_6493cdf7](https://github.com/user-attachments/assets/3f9b0124-58b8-4270-945f-84cb9bed445d)
+
 
 
 
